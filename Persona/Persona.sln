@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona", "apiPersona\ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona.Tests", "apiPersona.Tests\apiPersona.Tests.csproj", "{BC5E8C12-E567-4C30-8D5D-9A7B7C8D15DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPersona", "WebPersona\WebPersona.csproj", "{9FC72EBB-D785-4D6A-BDB6-233B0D995DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BC5E8C12-E567-4C30-8D5D-9A7B7C8D15DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5E8C12-E567-4C30-8D5D-9A7B7C8D15DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5E8C12-E567-4C30-8D5D-9A7B7C8D15DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC72EBB-D785-4D6A-BDB6-233B0D995DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC72EBB-D785-4D6A-BDB6-233B0D995DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC72EBB-D785-4D6A-BDB6-233B0D995DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC72EBB-D785-4D6A-BDB6-233B0D995DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
